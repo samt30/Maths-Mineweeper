@@ -39,5 +39,5 @@ The "MathsExpression.json" file is necessary to play HarderMaths, if you change 
  replace the older one if needed.
 
 From developer:
-I am Sam T, a new programmer, this game is my first published project using winforms
+I am Sam T, this game is my first published project using winforms
 I open source it on Github, you're welcome to fork it, edit it, and improve it
