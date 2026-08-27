@@ -34,6 +34,10 @@ This game is ready to run, portable, no installation required,
 and no leaderboard as it doesn't save anything in your computer.
 So remember to write down your personal best if you do care about it.
 
+The "MathsExpression.json" file is necessary to play HarderMaths, if you change it and it is unusable, or lost it,
+ download the "MathsExpression.json" file from Github and put it next to the executable file of this game,
+ replace the older one if needed.
+
 From developer:
 I am Sam T, a new programmer, this game is my first published project using winforms
-I open source it on github, you're welcome to edit it, and improve it
+I open source it on Github, you're welcome to edit it, and improve it
