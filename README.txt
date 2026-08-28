@@ -37,7 +37,7 @@ So remember to write down your personal best if you do care about it.
 The "MathsExpression.json" file is necessary to play HarderMaths, if you change it and it is unusable, or lost it,
  download the "MathsExpression.json" file from Github and put it next to the executable file of this game,
  replace the older one if needed.
-Remember the file for playing is on right side, where release
+Remember the file for playing is on right side, where inside the release folder
 
 If you need to access the file of game, here is the link
 https://github.com/samt30/Maths-Mineweeper/tree/main
