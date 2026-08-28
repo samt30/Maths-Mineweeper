@@ -42,7 +42,7 @@ The "MathsExpression.json" file is necessary to play HarderMaths, if you change 
 Remember the executable file and fully prepared "MathsExpression.json" is on right side, where inside the release folder
 
 If you need to access the file of game, here is the link
-https://github.com/samt30/Maths-Mineweeper/tree/main
+https://github.com/samt30/Maths-Minesweeper/tree/main
 
 From developer:
 I am Sam T, this game is developed by me and it is my first published project using winforms
