@@ -21,6 +21,8 @@ If you don't know how to play minesweeper, here are the rules:
     for example, number 1 means there is one mine surrounding it, number 2 means there are two mines surrounding it, etc
 5. If you click a mine, the game is over.
 
+* you can restart a game quickly by press the key "R" on keyboard
+
 Also, sometimes you may need to guess the position of a mine, such as when facing a 50/50 scenario.
 
 Anyways, hope you have fun with it!
